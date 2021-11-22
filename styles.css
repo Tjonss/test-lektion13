@@ -35,3 +35,16 @@ body {
   padding: 1rem;
   display: inline-block;
 }
+
+.hero {
+  background: #efe2ff;
+}
+.image {
+  /* STYR DIVEN ISTÖÄLLET FÖR BILDEN */
+}
+.image img {
+  width: 100%;
+}
+.text {
+  text-align: center;
+}
